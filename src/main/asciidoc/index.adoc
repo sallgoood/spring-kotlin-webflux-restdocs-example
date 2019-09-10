@@ -1,0 +1,7 @@
+==== Docs
+
+.request
+include::{snippets}/hello-world/http-request.adoc[]
+
+.response
+include::{snippets}/hello-world/http-response.adoc[]
